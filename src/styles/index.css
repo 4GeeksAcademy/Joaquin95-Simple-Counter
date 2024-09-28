@@ -11,11 +11,6 @@
 }
 
 .counter-container {
-  background-color: black; /* Optional: background color for contrast */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: shadow effect */
-}
-
-.display-1 {
-  font-size: 5rem;
-  font-weight: bold;
+  background-color: black;
+  box-shadow: 0 4px 8px rgba(27, 27, 27, 0.1);
 }
